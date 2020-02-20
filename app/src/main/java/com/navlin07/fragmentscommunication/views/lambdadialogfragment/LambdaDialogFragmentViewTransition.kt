@@ -1,0 +1,3 @@
+package com.navlin07.fragmentscommunication.views.lambdadialogfragment
+
+sealed class LambdaDialogFragmentViewTransition

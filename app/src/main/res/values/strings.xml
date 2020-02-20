@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments communication</string>
+    <string name="selector_fragment_name">Fragments Selector</string>
+    <string name="interface_fragment_name">Fragments Interface</string>
+    <string name="lambda_fragment_name">Fragments Lambda</string>
+    <string name="dialog_interface_fragment_name">Dialog Interface</string>
+    <string name="dialog_lambda_fragment_name">Dialog Lambda</string>
+    <string name="dialog_fragment_input_text">Introduce value to show</string>
+    <string name="dialog_fragment_button_send">Send</string>
+    <string name="dialog_fragment_button_cancel">Cancel</string>
+</resources>

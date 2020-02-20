@@ -1,0 +1,3 @@
+package com.navlin07.fragmentscommunication.views.interfacedialogfragment
+
+sealed class InterfaceDialogFragmentViewTransition
